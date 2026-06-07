@@ -26,13 +26,30 @@ Technologies Used:
 - NLP
 - NLTK
 
+3. AI Music Generation System
+
+A music generation application that creates musical note sequences and exports them as MIDI files.
+
+Features
+
+AI-generated melodies
+MIDI file creation
+Streamlit-based interface
+
+Technologies Used:
+
+Python
+Streamlit
+Natural Language Processing (NLP)
+Music21
+Machine Learning Concepts
+
 Repository Structure
 
 CodeAlpha_Tasks
-
 ├── CodeAlpha_AI_Language_Translation_Tool
-
-└── CodeAlpha_Chatbot_for_FAQs
+├── CodeAlpha_Chatbot_for_FAQs
+└── CodeAlpha_Music_Generation_AI
 
 Author
 
